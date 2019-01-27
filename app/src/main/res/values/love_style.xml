@@ -1,0 +1,9 @@
+<resources>
+    <declare-styleable name="LoveView">
+        <attr name="edgeColor" format="color|reference"></attr>
+        <attr name="fillColor" format="color|reference"></attr>
+        <attr name="cracksColor" format="color|reference"></attr>
+        <attr name="backgroundColor" format="color|reference"></attr>
+        <attr name="unLoveType" format="integer"></attr>
+    </declare-styleable>
+</resources>
